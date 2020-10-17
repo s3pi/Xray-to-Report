@@ -1,0 +1,1 @@
+# Hierarchical-X-Ray-Report-Generation-via-Pathology-tags-and-Multi-Head-Attention
