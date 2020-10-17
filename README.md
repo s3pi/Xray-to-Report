@@ -25,4 +25,5 @@ performance indicates that we can generate a readable radiology report,
 with a relatively higher BLEU score over SOTA.
 
 #Accepted in ACCV 2020, Kyoto, Japan.
+
 #Tensorflow #numpy #scipy 
