@@ -24,4 +24,4 @@ evaluating the proposed network, we use a publicly available dataset. The
 performance indicates that we can generate a readable radiology report,
 with a relatively higher BLEU score over SOTA.
 
-#Tensorflow #numpy #scipy #nibabel
+#Tensorflow #numpy #scipy 
