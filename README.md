@@ -1,6 +1,6 @@
 # Hierarchical-X-Ray-Report-Generation-via-Pathology-tags-and-Multi-Head-Attention
 
-Examining radiology images, such as X-Ray images as accu-
+Abstract: Examining radiology images, such as X-Ray images as accu-
 rately as possible, forms a crucial step in providing the best healthcare
 facilities. However, this requires high expertise and clinical experience.
 Even for experienced radiologists, this is a time-consuming task. Hence,
@@ -24,4 +24,5 @@ evaluating the proposed network, we use a publicly available dataset. The
 performance indicates that we can generate a readable radiology report,
 with a relatively higher BLEU score over SOTA.
 
+#Accepted in ACCV 2020, Kyoto, Japan.
 #Tensorflow #numpy #scipy 
