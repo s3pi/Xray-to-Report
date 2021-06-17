@@ -1,4 +1,4 @@
-# Hierarchical-X-Ray-Report-Generation-via-Pathology-tags-and-Multi-Head-Attention
+# Hierarchical X-Ray Report Generation via Pathology tags and Multi Head Attention
 
 Abstract: Examining radiology images, such as X-Ray images as accu-
 rately as possible, forms a crucial step in providing the best healthcare
