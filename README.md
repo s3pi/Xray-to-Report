@@ -25,7 +25,8 @@ performance indicates that we can generate a readable radiology report,
 with a relatively higher BLEU score over SOTA.
 
 #Accepted in ACCV 2020, Kyoto, Japan.
-https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html
+
+#Paper: https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html
 
 #Tensorflow #numpy #scipy 
 
