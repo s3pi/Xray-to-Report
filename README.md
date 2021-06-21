@@ -24,10 +24,10 @@ evaluating the proposed network, we use a publicly available dataset. The
 performance indicates that we can generate a readable radiology report,
 with a relatively higher BLEU score over SOTA.
 
-## Accepted in ACCV 2020, Kyoto, Japan.
+### Accepted in ACCV 2020, Kyoto, Japan.
 
-## Paper: https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html
+### Paper: https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html
 
-## Tensorflow #numpy #scipy 
+### Tensorflow #numpy #scipy 
 
-## https://youtu.be/e0p9Q4WKB1o
+### https://youtu.be/e0p9Q4WKB1o
